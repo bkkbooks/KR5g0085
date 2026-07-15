@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5g0085/v1
 canonical_location: https://kanripo.org/bkk/KR5g0085/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 盤天經
   identifiers:
@@ -32,9 +32,9 @@ editions:
 - short: SJB
 assets:
   parts:
-  - {seq: 0, filename: KR5g0085_000.yaml, hash: 'sha256:57837a3e74983a8ebbeeb7d41ebda9895f5f7b6cdf0bb91ef5d41fad0625bd0d'}
+  - {seq: 0, filename: KR5g0085_000.yaml, hash: 'sha256:8af74bcc02aee77e40e9e1d95a2c17be5a6ec3016b74f1af42b3b2cc8ff96a16'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5g0085_000.markers.yaml, hash: 'sha256:03bd7b5045070e48d36ddfb7c9d0346283fb0f57764654b189e9e7c364567dc1'}
+  - {seq: 0, role: markers, filename: assets/KR5g0085_000.markers.yaml, hash: 'sha256:b7259d836843d410c3d2583bf9528cdaf99ae9b03c738931d89e5f32a2085275'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:fe7180fb95cf429c68311899762c57629a91c19f12e4ce3a2fb9a990b8fa035e
+hash: sha256:f90cffeef71738999f2ef965c524bd641c8a309c26e43b1d31f370764d65a760
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
